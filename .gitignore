@@ -1,0 +1,7 @@
+.idea/
+_pycache_/
+.pyc
+.log
+.DS_Store
+*.bin
+*.pth
