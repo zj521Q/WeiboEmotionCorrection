@@ -26,4 +26,4 @@ Pretrained models (download from Hugging Face):
 
 ## Questions or Feedback?
 
-Open an issue or contact us at: [2250520075@stu.xaut.edu.cn]
+Open an issue or contact us at: [2250520075@stu.xaut.edu.cn](mailto:2250520075@stu.xaut.edu.cn)
